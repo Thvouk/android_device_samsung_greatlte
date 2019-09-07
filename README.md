@@ -1,0 +1,1 @@
+# aNote 8ndroid_device_samsung_greatlte
